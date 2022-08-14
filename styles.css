@@ -3,3 +3,21 @@
 * {
     font-family: 'Poppins';
 }
+
+
+
+@media only screen and (max-width: 600px){
+    .space_home{
+        margin: 0 !important;
+        text-align: center;
+    }
+
+    .space_home h1{
+        font-size: 60px !important;
+        
+    }
+
+    .space_home a{
+        font-size: 30px !important;
+    }
+}
